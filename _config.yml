@@ -71,10 +71,10 @@ comment:
   changyan_appid: 
   changyan_conf: 
   # Gitment  site: https://github.com/imsun/gitment
-  gitment_owner: 
-  gitment_repo: 
-  gitment_client_id: 
-  gitment_client_secret: 
+  gitment_owner: icoding
+  gitment_repo: icoding.github.io
+  gitment_client_id: 9c8110fcdd94e63acbaf
+  gitment_client_secret: 2be5bb7f80e226ecaed8bfb431a56220eccb1c5c
   # Youyan  site: http://www.uyan.cc/
   youyan_uid: 
   # Valine  site: https://valine.js.org/
